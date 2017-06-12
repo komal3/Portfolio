@@ -1101,3 +1101,15 @@ article {
 .fa {
   color: white;
 }
+
+.git {
+  background-color: black;
+    border-color: black;
+}
+.progress-bar {
+  background-color: #02bdd5;
+}
+
+.resume {
+  padding: 18px 10px;
+}
